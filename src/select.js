@@ -1,4 +1,4 @@
-import React, { useState } from "react";git 
+import React, { useState } from "react";
 
 const Select = () => {
     const [choose, setChoose] = useState("Choose Value")
